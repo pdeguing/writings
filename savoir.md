@@ -86,3 +86,8 @@ Le bonheur est accessible en toutes circonstances. Il faut simplement parvenir �
 Alors parfois, tel un souvenir il refait doucement surface et nous embrasse. À première vue rien ne change et pourtant tout change. 
 
 Respirer. Regarder. Aimer. Vivre.
+
+« To see a World in a Grain of Sand
+And a Heaven in a Wild Flower
+Hold Infinity in the palm of your hand
+And Eternity in an hour »
