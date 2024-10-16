@@ -1,12 +1,19 @@
+---
+# front matter tells Jekyll to process Liquid
+
+layout: default
+title: Writings
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Writings</title>
+    <title>{{ page.title }}</title>
 </head>
 <body>
-    <h1>Writings</h1>
+    <h1>{{ page.title | downcase }}</h1>
     <ul>
         <li><a href="miroir.md">Miroir</a></li>
         <li><a href="savoir.md">Savoir</a></li>
